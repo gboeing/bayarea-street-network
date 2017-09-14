@@ -1,6 +1,7 @@
 data/*
 cache/*
 cb_2016_us_county_500k/*
+*.pptx
 
 
 # Byte-compiled / optimized / DLL files
